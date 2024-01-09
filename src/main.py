@@ -20,8 +20,6 @@ flat_image = pygame.image.load('assets/img/flat.png')
 sharp_image = pygame.image.load('assets/img/sharp.png')
 ledger_line_image = pygame.image.load('assets/img/ledger_line.png')
 
-pixel_image = pygame.image.load('assets/img/pixel.png')
-
 # Define notes and their corresponding keys
 note_names = 'ABCDEFGH'
 notes = [
